@@ -1,0 +1,12 @@
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\bin\Debug\WinFormsMaintenance.exe.config
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\bin\Debug\WinFormsMaintenance.exe
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\bin\Debug\WinFormsMaintenance.pdb
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.Customer.resources
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.Form1.resources
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.Properties.Resources.resources
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.csproj.GenerateResource.cache
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.csproj.CoreCompileInputs.cache
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.exe
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.pdb
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.Product.resources
+c:\test\student\WinFormsMaintenance\WinFormsMaintenance\obj\Debug\WinFormsMaintenance.csproj.AssemblyReference.cache
