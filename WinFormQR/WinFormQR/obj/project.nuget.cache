@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkkRnVs1frNueH+S6wBGgh0YXEOAALbdxHHQIIiwfG5IEosxVVCmpkgK8M27nUz17eGQQfx1GZS4anVBbCk/pA==",
+  "success": true,
+  "projectFilePath": "C:\\test\\other\\Training\\WinFormQR\\WinFormQR\\WinFormQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chan-mingman\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\chan-mingman\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\chan-mingman\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormQR", "WinFormQR\WinFormQR.csproj", "{911999F0-1103-40DF-B3F3-24812C246208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911999F0-1103-40DF-B3F3-24812C246208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911999F0-1103-40DF-B3F3-24812C246208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911999F0-1103-40DF-B3F3-24812C246208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911999F0-1103-40DF-B3F3-24812C246208}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0511AFB-CC73-4EBE-B1CB-A3C42453CF58}
+	EndGlobalSection
+EndGlobal
